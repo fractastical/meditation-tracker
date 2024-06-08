@@ -12,8 +12,8 @@ Didn't have enough time in my schedule.
 
 # What does it look like?
 
+<img width="1012" alt="Screenshot 2024-06-08 at 19 56 52" src="https://github.com/fractastical/meditation-tracker/assets/589191/d80e66a6-b2e9-4969-93de-62fcb47862c6">
 
-<img width="214" alt="Screenshot 2024-06-08 at 19 53 39" src="https://github.com/fractastical/meditation-tracker/assets/589191/af8d538e-64da-4e61-866f-a502217ba1c4">
 
 # What does it mean?
 
@@ -27,4 +27,4 @@ Since overall goal is to disconnect from daily activities and especially communi
 
 Calms the mind, enhances powers of concentration, stuff like this
 
-<img width="1012" alt="Screenshot 2024-06-08 at 19 56 52" src="https://github.com/fractastical/meditation-tracker/assets/589191/d80e66a6-b2e9-4969-93de-62fcb47862c6">
+<img width="214" alt="Screenshot 2024-06-08 at 19 53 39" src="https://github.com/fractastical/meditation-tracker/assets/589191/af8d538e-64da-4e61-866f-a502217ba1c4">
